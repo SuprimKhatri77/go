@@ -233,4 +233,6 @@ func main() {
 
 	MutexExample()
 
+	Practice()
+
 }
